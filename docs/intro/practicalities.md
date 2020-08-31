@@ -2,33 +2,32 @@
 
 ## Fairness
 
-- Balance between comprehensiveness and usability / interpretability
-- Adaptable to context-specific use cases
-- UI: easier flow & examples / case studies to know what to look for
-- Ease of integration / accessibility for technical packages (installation vs. Github)
-- Variety of different fairness metrics
-- Being able to comprehend different mitigation techniques and their pros & cons
+There should be a balance between **comprehensiveness** and **usability** / interpretability.  
+A tool should be adaptable to **context-specific use cases**, and usable in real-life scenarios.  
+The tool's UI should provide the user with an **easy flow & examples** (case studies) of what to look for.  
+Tools should be **easy to integrate** and technical packages accessible.  
+Tools should use a **variety of fairness metrics**, with clearly explained differences and use cases ("what to use where and why").  
+The user should be led to understand **different mitigation techniques** and their pros & cons.  
 
 ## Explanation
 
-- A layer for explainability on top of existing tools used, such as for both SciKit, Tensorflow - Closest is seldon.io Alibi 0.4.0
-- There needs to be levels of explainability for both technical and business owners. DS can interpret tech into business,but we also need a wider schematic language to ensure transparency and that we think of ethics as a wider community
+There should be an **"explanability layer"** on top of existing tools used, i.e. for both SciKit, Tensorflow (the closest is [seldon.io Alibi 0.4.0](https://docs.seldon.io/projects/alibi/en/latest/)).  
+
+Explainability needs to be provided to **both technical and business owners**. Data scientists can "translate" technical aspects of the work to non-technical parties, but we also need a wider schematic language to ensure transparency, and to establish the existence of an ethics "frame of mind" across the business.
 
 ## Natural Language Processing (NLP)
 
-- Produce bias scores in standardised way
-- Debias with different techniques
-- Modeling framework agnostic
-- Ability to explain predictions with different techniques
+NLP toolkits should produce bias scores in a standardised way.  
+Debiassing should be offered with different techniques.  
+Tools should be agnostic to the users' modeling framework.  
+They should explain predictions with different techniques.  
 
 ## Guidelines / checklists
 
-- Comprehensive, stress tested
-- Clear calls to action, clarity in next steps
-- User friendly
-- Supports an iterative process, not a ‘one-and-done’ approach
+Guidelines should be **comprehensive** and need to have been stress-tested.  
+Tools should provide clear **calls to action**, and a clear 'what next' plan to ensure it can be succesfully integrated in a wider process.  
+Tools should support an iterative proces rather than ‘one-and-done’ approach.  
 
 ## Communicating ethics
 
-- Engaging, low barrier to entry
-- Addresses the nuances, questions the commonly held narratives around AI Ethics
+Communicating ethics should be engaging, and have a very **low barrier to entry**: this by definition *needs* to be as accessible as possible. **complex and nuanced** field, without a single source of truth; tools should discuss those nuances and engage the user in a critical approach, for instance questioning the commonly held narratives around AI Ethics.
