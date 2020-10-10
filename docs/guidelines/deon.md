@@ -1,5 +1,7 @@
 # [DEON Ethics Checklist](https://deon.drivendata.org/)
 
+We evaluated the [Ethics Checklist](https://deon.drivendata.org/) tool developed by DEON.
+
 ### Overall evaluation
 
 #### Technical Implementation
