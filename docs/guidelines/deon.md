@@ -1,12 +1,14 @@
 # [DEON Ethics Checklist](https://deon.drivendata.org/)
 
+### Overall evaluation
+
 #### Technical Implementation
 
 Useful: 5/5
 
 Comprehensive: 3/5 - needs to be combined with project-level tools, and other support for answering the questions asked, and versioned - and also would work best if customised
 
-#### Technical scalability:
+Technical scalability:
 
 Easy to customize (data): 5/5
 
