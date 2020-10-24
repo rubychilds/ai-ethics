@@ -8,9 +8,9 @@
 
 IBM launched this tool in 2018, in an effort to “break open the ‘black box’ at the heart” of AI models. It aims to simplify AI processes, including detailing how recommendations are made, bias detection, and bias mitigation to ensure that fair models are produced, in particular:
 
-1. **Measure and track AI outcomes - **Track performance of production AI and its impact on business goals, with actionable metrics, in a single console.
-2. **Tune your AI for business - **Apply business results to create a continuous feedback loop that improves and sustains AI outcomes.
-3. **Govern and explain AI - **Maintain regulatory compliance by tracing and explaining AI decisions across workflows, and intelligently detect and correct bias to improve outcomes.
+1. Measure and track AI outcomes - \*\*Track performance of production AI and its impact on business goals, with actionable metrics, in a single console.
+2. Tune your AI for business - \*\*Apply business results to create a continuous feedback loop that improves and sustains AI outcomes.
+3. Govern and explain AI - \*\*Maintain regulatory compliance by tracing and explaining AI decisions across workflows, and intelligently detect and correct bias to improve outcomes.
 
 **Who is the intended user?**
 

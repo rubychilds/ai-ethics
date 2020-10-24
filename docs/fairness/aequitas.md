@@ -44,7 +44,7 @@ I felt very confident using the system: 4
 
 I needed to learn a lot of things before I could get going with this system: 2
 
-**Description of the tool**
+## Description of the tool
 
 Python package and web interface for quantifying bias in a dataset or machine learning system and identifying which groups are at risk in the system. Can generate a detailed audit report highlighting areas of concern.
 
@@ -52,39 +52,34 @@ Python package and web interface for quantifying bias in a dataset or machine le
 
 Quick and easy assessment of fairness in dataset or model predictions. Can quickly generate plots for measuring fairness between groups.
 
-**Pros & cons**
+## Pros & cons
 
-Pros:
+- Easy to set up and use
 
-    * Easy to set up and use
+- Good demonstration notebook[ https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)
 
-    * Good demonstration notebook[ https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb](https://github.com/dssg/aequitas/blob/master/docs/source/examples/compas_demo.ipynb)
+- Web demo for non technical audience
 
-    * Web demo for non technical audience
+- Web interface for ease of use with custom dataset
 
-    * Web interface for ease of use with custom dataset
+- Comprehensive Documentation[ https://dssg.github.io/aequitas/](https://dssg.github.io/aequitas/)
 
-    * Comprehensive Documentation[ https://dssg.github.io/aequitas/](https://dssg.github.io/aequitas/)
-
-1.
-
-1. **Limitations, especially any technical issues**
+## Limitations, especially any technical issues
 
 - Fairly basic functionality, limited to detection.
+- No ability for mitigation.
 
--No ability for mitigation.
+## Case study demo with screenshots
 
-**Case study demo with screenshots**
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image12.png "image_tooltip")
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image13.png "image_tooltip")
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image14.png "image_tooltip")
 

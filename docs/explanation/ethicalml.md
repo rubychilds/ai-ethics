@@ -15,17 +15,11 @@ Disclaimer: this library is in alpha (0.0.4) and does not seem to be maintained 
 _Technical Implementation_
 
 Useful: 3/5
-
 Comprehensive: 3/5
-
 Technical scalability: 2/5
-
 Easy to customize (data): 3/5
-
 Easy to customize (visualizations / analyses): 3/5
-
 Easy to integrate: 3/5
-
 Robustness: 1/5
 
 **_User-friendliness (system usability scale)_**

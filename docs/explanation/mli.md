@@ -5,17 +5,11 @@
 _Technical Implementation_
 
 Useful: 3/5
-
 Comprehensive: 2/5
-
 Technical scalability: 2/5
-
 Easy to customize (data): 4/5
-
 Easy to customize (visualizations / analyses): 4/5
-
 Easy to integrate: 2/5
-
 Robustness: ?/5
 
 **_User-friendliness (system usability scale)_**
@@ -85,14 +79,14 @@ Image 2. Shows Jupyter notebook for Partial Dependency and ICE plot
 
 Image 3. Shows h2o site and mission statement.
 
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image22.png "image_tooltip")
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image23.png "image_tooltip")
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image24.png "image_tooltip")

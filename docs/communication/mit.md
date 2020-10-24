@@ -7,17 +7,11 @@ We reviewed MIT Technology Review’s interactive tool for explaining the tensio
 #### Technical Implementation
 
 Useful: 5/5
-
 Comprehensive: 5/5
-
 Technical scalability: 3/5 (may be hard to access for non-technical, but easily re-purposed)
-
 Easy to customize (data): n/a
-
 Easy to customize (visualizations / analyses): n/a
-
 Easy to integrate: n/a
-
 Robustness: n/a
 
 #### User-friendliness (system usability scale)
@@ -50,53 +44,38 @@ Feel free to add comments and justifications!
 
 What is its purpose?
 
--
+- An educational piece tool to illustrate the impact of ML within the legal system
+- Brings to light the challenge in explaining “fairness”
 
-an educational piece tool to illustrate the impact of ML within the legal system
-
--
-
-brings to light the challenge in explaining “fairness”
 Who is the intended user?
 
--
+- Non technical & technical - anyone can understand it
 
-non technical & technical - anyone can understand it
 What is its scope (algorithms, data, types of challenges)?
 
--
-
-education, fairness in AI
+- Education, fairness in AI
 
 ### Best for:
 
 What should practitioners use this tool for? Are there any scenarios / use cases in which this tool is particularly helpful vs. useless?
 
--
-
-understanding what is the impact of machine learning on society
-
--
-
-might be particularly useful for policy makers and data scientists - brings to light a lot of nuances and challenges
+- Understanding what is the impact of machine learning on society
+- Might be particularly useful for policy makers and data scientists - brings to light a lot of nuances and challenges
 
 ### Pros & cons
 
 What are the benefits of this tool?
 
--
+- Understanding the challenge in the intersection between AI &lt;> Society
 
-understanding the challenge in the intersection between AI &lt;> Society
 What are the challenges in using this tool?
 
--
-
-can be a little intimidating for people who are less comfortable with numbers, it is more tailored for the average MIT tech reader, however if pulled apart, workshop style, would be incredibly useful
+- Can be a little intimidating for people who are less comfortable with numbers, it is more tailored for the average MIT tech reader, however if pulled apart, workshop style, would be incredibly useful
 
 ### Limitations, especially any technical issues
 
 E.g. difficult to integrate or customize
 
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image35.png "image_tooltip")

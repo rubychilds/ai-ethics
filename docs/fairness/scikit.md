@@ -5,15 +5,10 @@
 _Technical Implementation_
 
 Useful: 2/5
-
 Comprehensive: 2/5
-
 Technical scalability: 3/5
-
 Easy to customize (data): 3/5
-
 Easy to customize (visualizations / analyses): 2/5
-
 Easy to integrate: 4/5
 
 Robustness: 3/5

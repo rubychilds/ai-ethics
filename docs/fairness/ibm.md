@@ -74,10 +74,6 @@ Pros:
 
 3. Well defined API with lots of functionality.
 
-4.
-
-1)
-
 **Limitations, especially any technical issues**
 
 There is a general consensus that “De-Bias”ing algorithms do not actually lead to fairer systems in general, so whilst this package is a good starting point to thinking about how a dataset can be altered, or a model’s behavior changed with fairness in mind it might not be that effective in practice.
@@ -88,10 +84,10 @@ Perhaps a steep learning curve in terms of integrating into an existing model bu
 
 **Case study demo with screenshots**
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image10.png "image_tooltip")
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+IMAGE NEEDED
 
 ![alt_text](_media/image11.png "image_tooltip")

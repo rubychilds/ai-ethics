@@ -62,31 +62,21 @@ IMAGE NEEDED
 
 What should practitioners use this tool for? Are there any scenarios / use cases in which this tool is particularly helpful vs. useless?
 
--
+- Good for exploratory usage and finding counterfactual examples to visualize
 
-Good for exploratory usage and finding counterfactual examples to visualize
 What are the benefits of this tool?
 
--
+- Easy to install and use, lots of useful documentation and demos
 
-Easy to install and use, lots of useful documentation and demos
+- Counterfactual analysis
 
--
-
-Counterfactual analysis
 **Cons &** **Limitations, especially any technical issues**
 
--
+- Dependency on Google Cloud environment: requires customers to build and implement their models within the Google Cloud, not local servers / own environment. Potential security / legal issues?
 
-Dependency on Google Cloud environment: requires customers to build and implement their models within the Google Cloud, not local servers / own environment. Potential security / legal issues?
+- Doesn’t work with ensemble methods ([Source](https://insidebigdata.com/2020/03/01/the-pros-and-cons-of-googles-new-ai-transparency-tools/)): a version of the Aumann-Shapley method that uses a series of foils—called “counterfactuals”— models that weave together multiple models using diverse or competing techniques
 
--
-
-Doesn’t work with ensemble methods ([Source](https://insidebigdata.com/2020/03/01/the-pros-and-cons-of-googles-new-ai-transparency-tools/)): a version of the Aumann-Shapley method that uses a series of foils—called “counterfactuals”— models that weave together multiple models using diverse or competing techniques
-
--
-
-UI has too much information, difficult to know what to look at. While it says it requires no coding background, it would be challenging for anyone non-technical to navigate
+- UI has too much information, difficult to know what to look at. While it says it requires no coding background, it would be challenging for anyone non-technical to navigate
 
 - Not easily customizable to add new metrics or domain-specific reporting standards
 
