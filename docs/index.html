@@ -20,6 +20,9 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
     <link rel="stylesheet" href="custom.css">
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+    <script src="https://kit.fontawesome.com/4b02aae919.js" crossorigin="anonymous"></script>
+
   </head>
   <body>
     <div id="app"></div>
@@ -32,16 +35,34 @@
         subMaxLevel: 1,
         logo: '/_media/main.png',
         plugins: [
-          EditOnGithubPlugin.create('https://github.com/DataKind-UK/ai-ethics/tree/master/docs/')
-          ]
+          EditOnGithubPlugin.create('https://github.com/DataKind-UK/ai-ethics/tree/master/docs/'),
+          function(hook) {
+            var footer = [
+              '<hr/>',
+              '<footer>',
+                '<div class="social-footer"><div class="social-footer-icons">',
+                    '<li><a href="https://www.facebook.com/DataKindOrg"><i class="fab fa-2x fa-facebook" aria-hidden="true"></i></a></li>',
+                    '<li><a href="https://www.instagram.com/datakind"><i class="fab fa-2x fa-instagram" aria-hidden="true"></i></a></li>',
+                    '<li><a href="https://twitter.com/datakind"><i class="fab fa-2x fa-twitter" aria-hidden="true"></i></a></li>',
+                '</div></div>',
+              '<span><a href="https://datakind.org.uk/">DataKind UK</a> &copy;2020.</span>',
+              '<span> Published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+              '</footer>'
+            ].join('');
+
+            hook.afterEach(function(html) {
+              return html + footer;
+            });
+          }
+        ]
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
+
   </body>
   <footer>
-
 
   </footer>
 </html>
