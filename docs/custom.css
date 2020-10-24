@@ -67,3 +67,9 @@ a:hover > span {
   color: #4a4a4a;
   transition: color 0.3s ease-in;
 }
+
+h3 > a > span {
+  color: #ff9200;
+  font-size: 14px;
+  text-transform: uppercase;
+}

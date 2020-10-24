@@ -96,9 +96,9 @@ It only works for structured (tabular) data.
 
 The examples in the documentation work only partially, see e.g.:
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image21.png "image_tooltip")
+![alt_text](_media/image21.png "image_tooltip")
 
 ## [MLI Resources](https://github.com/h2oai/mli-resources)
 
@@ -129,7 +129,7 @@ Robustness: ?/5
 5. I found the various functions in this system were well integrated: 3 (this tool consists of a series of notebooks and Python library to use in your own work. They have easily integrate-able models. However would replace your existing ML tools such as SciKit learn)
 6. I thought there was too much inconsistency in this system:
 7. I would imagine that most people would learn to use this system very quickly: 3 - A technical person would learn quickly; if not technical it would be struggle.
-8. I found the system very cumbersome to use: 1 - Uses Docker images and no requirements for a GPU.
+8. I found the system very cumbersome to use: 1 - Uses Docker \_media and no requirements for a GPU.
 9. I felt very confident using the system: 2 - Can use out of the box with the Jupyter notebooks. Explain-abilities are worded in a confusing manner - a lot of negation, such as `not quite good`
 10. I needed to learn a lot of things before I could get going with this system: 1 (If you’re familiar with Machine Learning models, there are some key models here to use)
 
@@ -187,14 +187,14 @@ Image 2. Shows Jupyter notebook for Partial Dependency and ICE plot
 
 Image 3. Shows h2o site and mission statement.
 
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image22.png "image_tooltip")
+![alt_text](_media/image22.png "image_tooltip")
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image23.png "image_tooltip")
+![alt_text](_media/image23.png "image_tooltip")
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-![alt_text](images/image24.png "image_tooltip")
+![alt_text](_media/image24.png "image_tooltip")

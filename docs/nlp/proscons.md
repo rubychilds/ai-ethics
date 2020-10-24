@@ -79,7 +79,7 @@
 
 <li>Variety of methods to help interpretation of models (Gradientvisualisations and input perturbation)
 
-<li>Released library with software development principles applied(unit tests) & Containerised docker images to easily reuse pre-trained models.
+<li>Released library with software development principles applied(unit tests) & Containerised docker _media to easily reuse pre-trained models.
 
 <li>UI front end to look at anecdotal examples on front end. 
 </li>
@@ -188,7 +188,7 @@ Tabular
 <p>
 Text
 <p>
-Images
+_media
 <p>
 Model confidentiality
 <p>

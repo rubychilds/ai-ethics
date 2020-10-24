@@ -1,6 +1,6 @@
-# Data Ethics Toolkits
+### Practitioner’s Guide
 
-## Version 1.0
+# Data Ethics Toolkits v1.0
 
 We currently live in a world full of data and an explosion of effort trying to understand it. In recent years, we’ve seen the increasing usage of algorithmic techniques in order to process raw data and transform it into information. With this comes levels of both risk and uncertainty and the need to explain what these tools are doing, and why. To ensure we build to a fairer and equal future we must ensure we have both fairness and explainability of algorithms.
 
