@@ -1,0 +1,41 @@
+:root {
+  --base-font-size: 14px;
+  --theme-color: #ff9200;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.sidebar ul li a {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.sidebar ul > li > a {
+  font-weight: 400;
+}
+
+.sidebar ul li a:active {
+  background-color: #e4e4e4;
+  text-decoration: none;
+  margin-left: -10px;
+  padding-left: 10px;
+}
+
+.sidebar ul li a:hover {
+  background-color: #fafafa;
+  border-radius: 2px;
+  text-decoration: none;
+  text-decoration: none;
+  margin-left: -10px;
+  padding-left: 10px;
+}
+
+* > a:link {
+  text-decoration: none;
+}
+
+a:hover > span {
+  text-decoration: none;
+}

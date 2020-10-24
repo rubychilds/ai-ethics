@@ -1,14 +1,11 @@
-- Data Ethics Toolkits
+- [Data Ethics Toolkits](README.md)
 
-  - [Objectives](intro/objectives.md)
-  - [In Practice](intro/inpractice.md)
   - [Gaps](intro/gaps.md)
   - [Takeaways](intro/takeaways.md)
   - [Practicalities](intro/practicalities.md)
 
-- Fairness
+- [Fairness](fairness/summary.md)
 
-  - [Summary](fairness/summary.md)
   - [Top](fairness/top.md)
   - [Release Dates](fairness/release-dates.md)
   - [Scorecard](fairness/scorecard.md)
@@ -21,9 +18,8 @@
     - [PyMetrics](fairness/pymetrics.md)
     - [Fairlearn](fairness/fairlearn.md)
 
-- Explanation
+- [Explanation](explanation/summary.md)
 
-  - [Summary](explanation/summary.md)
   - [Top](explanation/top.md)
   - [Release Dates](explanation/release-dates.md)
   - [Scorecard](explanation/scorecard.md)
@@ -44,19 +40,18 @@
     - [Allen](nlp/allen.md)
     - [Ran](nlp/ran.md)
 
-- Guidelines
+- [Guidelines](guidelines/summary.md)
 
   - [Top](guidelines/top.md)
-  - [Summary](guidelines/summary.md)
+  - [Summary]()
   - [Tools](guideslines/tools.md)
     - [Deon](guidelines/deon.md)
     - [EU](guidelines/eu.md)
     - [Algotihmic](guidelines/algorithmic.md)
     - [ML Ethics Framework](guidelines/ml-ethics.md)
 
-- Communication
+- [Communication](communication/summary.md)
   - [Top](communication/top.md)
-  - [Summary](communication/summary.md)
   - Tools
     - [Google AI Explorables](communication/google.md)
     - [MIT](communication/mit.md)
