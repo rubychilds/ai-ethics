@@ -6,19 +6,13 @@ We evaluated the checklist provided on p.31 of the [AI Ethics Guidelines](https:
 
 #### Technical Implementation
 
-_Useful:_ 3/5
-
-_Comprehensive:_ 4/5
-
-_Technical scalability:_ N/A
-
-_Easy to customize (data):_ N/A
-
-_Easy to customize (visualizations / analyses):_ N/A
-
-_Easy to integrate:_ 2/5
-
-_Robustness:_ 3/5
+- _Useful:_ 3/5
+- _Comprehensive:_ 4/5
+- _Technical scalability:_ N/A
+- _Easy to customize (data):_ N/A
+- _Easy to customize (visualizations / analyses):_ N/A
+- _Easy to integrate:_ 2/5
+- _Robustness:_ 3/5
 
 #### User-friendliness (system usability scale)
 
