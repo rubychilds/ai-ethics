@@ -6,19 +6,13 @@ We evaluated the [Ethics Checklist](https://deon.drivendata.org/) tool developed
 
 #### Technical Implementation
 
-Useful: 5/5
-
-Comprehensive: 3/5 - needs to be combined with project-level tools, and other support for answering the questions asked, and versioned - and also would work best if customised
-
-Technical scalability:
-
-Easy to customize (data): 5/5
-
-Easy to customize (visualizations / analyses): n/a
-
-Easy to integrate: 5/5
-
-Robustness: 5/5
+- _Useful:_ 5/5
+- _Comprehensive:_ 3/5 - needs to be combined with project-level tools, and other support for answering the questions asked, and versioned - and also would work best if customised
+- _Technical scalability:_
+- _Easy to customize (data):_ 5/5
+- _Easy to customize (visualizations / analyses):_ n/a
+- _Easy to integrate:_ 5/5
+- _Robustness:_ 5/5
 
 #### User-friendliness (system usability scale)
 
