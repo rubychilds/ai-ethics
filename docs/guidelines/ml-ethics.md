@@ -70,7 +70,7 @@ _What are the benefits of this tool?_
 
 - spells out why these questions need answering
 
-_What are the challenges in using this tool? _
+_What are the challenges in using this tool?_
 
 - doesn’t tell you how to fix the problems
 
