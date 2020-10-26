@@ -54,7 +54,7 @@ _What is its purpose?_
 _Who is the intended user?_ 
 - computer science academic researchers
 
-_What is its scope (algorithms, data, types of challenges)?
+_What is its scope (algorithms, data, types of challenges)?_
 - impacts of research outputs
 
 ### Best for:
