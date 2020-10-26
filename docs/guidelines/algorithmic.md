@@ -10,19 +10,13 @@ Latest version: Saturday, April 11, 2020
 
 #### Technical Implementation
 
-_Useful:_ 5/5
-
-_Comprehensive:_ 3/5
-
-_Technical scalability:_ n/a
-
-_Easy to customize (data):_
-
-_Easy to customize (visualizations / analyses):_
-
-_Easy to integrate:_ n/a
-
-_Robustness:_ n/a
+- _Useful:_ 5/5
+- _Comprehensive:_ 3/5
+- _Technical scalability:_ n/a
+- _Easy to customize (data):_
+- _Easy to customize (visualizations / analyses):_
+- _Easy to integrate:_ n/a
+- _Robustness:_ n/a
 
 #### User-friendliness (system usability scale)
 
