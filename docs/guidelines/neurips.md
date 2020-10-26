@@ -6,19 +6,19 @@ We evaluated a [guide](https://medium.com/@operations_18894/a-guide-to-writing-t
 
 #### Technical Implementation
 
-Useful: 3/5 - best for beginners (less good for other people)
+_Useful:_ 3/5 - best for beginners (less good for other people)
 
-Comprehensive: 1/5
+_Comprehensive:_ 1/5
 
-Technical scalability: n/a
+_Technical scalability:_ n/a
 
-Easy to customize (data):
+_Easy to customize (data):_
 
-Easy to customize (visualizations / analyses):
+_Easy to customize (visualizations / analyses):_
 
-Easy to integrate: 4/5 - good starting point, very low bar of entry
+_Easy to integrate:_ 4/5 - good starting point, very low bar of entry
 
-Robustness: 1/5
+_Robustness:_ 1/5
 
 #### User-friendliness (system usability scale)
 
