@@ -1,6 +1,6 @@
 # [EU Ethics Guidelines](https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai)
 
-We evaluated the checklist provided on p.31 of the AI Ethics Guidelines produced by the EU.
+We evaluated the checklist provided on p.31 of the [AI Ethics Guidelines](https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai) produced by the EU.
 
 ### Overall evaluation
 
@@ -26,32 +26,29 @@ Answer with strongly agree (5), agree (4), neutral (3), disagree (2), strongly d
 
 Feel free to add comments and justifications!
 
-1. I think that I would like to use this system frequently: 1
+1. _I think that I would like to use this system frequently:_ 1
 
-2. I found the system unnecessarily complex: 4
+2. _I found the system unnecessarily complex:_ 4
 
-3. I thought the system was easy to use: 1
+3. _I thought the system was easy to use:_ 1
 
-4. I think that I would need the support of a ~~technical ~~person to be able to use this system: 5 (specialist)
+4. _I think that I would need the support of a ~~technical ~~person to be able to use this system:_ 5 (specialist)
 
-5. I found the various functions in this system were well integrated: N/A
+5. _I found the various functions in this system were well integrated:_ N/A
 
-6. I thought there was too much inconsistency in this system:
+6. _I thought there was too much inconsistency in this system:_ inconsistent levels of organisation vs team based.
 
-inconsistent levels of organisation vs team based.
+7. _I would imagine that most people would learn to use this system very quickly:_ 2
 
-7. I would imagine that most people would learn to use this system very quickly: 2
+8. _I found the system very cumbersome to use:_ 5
 
-8. I found the system very cumbersome to use: 5
+9. _I felt very confident using the system:_ 2
 
-9. I felt very confident using the system: 2
-
-10. I needed to learn a lot of things before I could get going with this system: 5
+10. _I needed to learn a lot of things before I could get going with this system:_ 5
 
 ### Description of the tool
 
-_What is its purpose?_
-
+_What is its purpose?_ 
 organisational / product checklist. “audit tool.”
 
 _Who is the intended user?_
@@ -60,24 +57,18 @@ _What is its scope (algorithms, data, types of challenges)?_
 
 ### Best for:
 
-What should practitioners use this tool for? Are there any scenarios / use cases in which this tool is particularly helpful vs. useless?
+_What should practitioners use this tool for? Are there any scenarios / use cases in which this tool is particularly helpful vs. useless?_
 
--
-
-specialist to go in and restructure organisation. not suitable for data science teams.
-
--
-
-could re-purpose this to being user friendly - split it up to be more process driven.
+- specialist to go in and restructure organisation. not suitable for data science teams.
+- could re-purpose this to being user friendly - split it up to be more process driven.
 
 ### Pros & cons
 
 _What are the benefits of this tool?_
 
-_What are the challenges in using this tool? _
+_What are the challenges in using this tool?_
 
-Structure makes it difficult to navigate. You need a specialist to integrate this.
+- structure makes it difficult to navigate. You need a specialist to integrate this.
 
 ### Limitations, especially any technical issues
 
-##
