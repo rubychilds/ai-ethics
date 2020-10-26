@@ -6,19 +6,13 @@ We evaluated Digital Catapult’s comprehensive [set of questions](https://www.m
 
 #### Technical Implementation
 
-_Useful:_ 5/5 - but only for identification of issues, not solutions
-
-_Comprehensive:_ 5/5
-
-_Technical scalability:_ n/a
-
-_Easy to customize (data):_ n/a - might want to add guidance notes to help people answer the questions
-
-_Easy to customize (visualizations / analyses):_ n/a
-
-_Easy to integrate:_ 3/5
-
-_Robustness:_ 4/5
+- _Useful:_ 5/5 - but only for identification of issues, not solutions
+- _Comprehensive:_ 5/5
+- _Technical scalability:_ n/a
+- _Easy to customize (data):_ n/a - might want to add guidance notes to help people answer the questions
+- _Easy to customize (visualizations / analyses):_ n/a
+- _Easy to integrate:_ 3/5
+- _Robustness:_ 4/5
 
 #### User-friendliness (system usability scale)
 
