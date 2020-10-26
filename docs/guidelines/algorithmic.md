@@ -55,7 +55,6 @@ _Feel free to add comments and justifications!_
 _What is its purpose?_
 
 - to explain areas of ethical concern within data, especially within use by governments
-
 - “whistle blowing”
 
 _Who is the intended user?_
