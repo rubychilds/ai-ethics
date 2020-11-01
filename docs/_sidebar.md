@@ -44,15 +44,16 @@
     - [Allen](nlp/allen.md)
     - [Ran](nlp/ran.md)
 
-- Guidelines
+- Ethics Checklists
 
-  - [Top](guidelines/top.md)
   - [Summary](guidelines/summary.md)
-  - [Tools](guideslines/tools.md)
-    - [Deon](guidelines/deon.md)
-    - [EU](guidelines/eu.md)
-    - [Algotihmic](guidelines/algorithmic.md)
-    - [ML Ethics Framework](guidelines/ml-ethics.md)
+  - [Top 3](guidelines/top.md)
+  - [Tools](guidelines/tools.md)
+    - [DEON Ethics Checklist](guidelines/deon.md)
+    - [EU Ethics Guidelines](guidelines/eu.md)
+    - [A Guide to Writing the NeurIPS Impact Statement](guidelines/neurips.md)
+    - [Algorithmic Equity Toolkit](guidelines/algorithmic.md)
+    - [Machine Intelligence Ethics Framework](guidelines/ml-ethics.md)
 
 - Communication
   - [Top](communication/top.md)
