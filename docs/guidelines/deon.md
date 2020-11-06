@@ -65,7 +65,8 @@ _What are the benefits of this tool?_
 - asks clear questions
 
 - can be customised easily to ask different questions
-  What are the challenges in using this tool? \_
+
+_What are the challenges in using this tool?_
 
 - needs familiarity with Python
 
