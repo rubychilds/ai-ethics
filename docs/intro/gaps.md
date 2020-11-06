@@ -17,3 +17,9 @@
 ## Natural Language Processing (NLP)
 
 - NLP focused package or library with decent documentation around detecting and removing bias that is model agnostic
+
+## Checklists
+
+- Ethical analysis should be continuous and embedded within ongoing processes, but checklists are inherently single-use tools, so their usefulness is limited.
+- Checklists are useful for spotting gaps, but less useful when it comes to identifying solutions: need to be complemented with domain expertise
+
